@@ -1,5 +1,42 @@
 
 
+# Dead Poets Society
+    {
+      "Year": 1989,
+      "Director": "Peter Weir",
+      "Music": "",
+      "Stars": "Robin Williams", "Robert Sean Leonard",
+      "Genre": "Comedy", "Drama",
+      "Alias": "死亡诗社",
+      "Status": "seen"
+    }
+
+
+
+# 12 Monkeys
+    {
+      "Year": 1995,
+      "Director": "Terry Gilliam",
+      "Music": "",
+      "Stars": "Bruce Willis", "Medeleine Stowe", "Brad Pitt",
+      "Genre": "Mystery", "Sci-Fi", "Thriller",
+      "Alias": "十二猴子",
+      "Status": "seen"
+    }
+
+
+
+# Good Will Hunting 
+    {
+      "Year": 1997,
+      "Director": "Gus Van Sant",
+      "Music": "",
+      "Stars": "Robin Williams", "Matt Damon", "Ben Affleck",
+      "Genre": "Drama", "Romance",
+      "Alias": "心灵捕手",
+      "Status": "seen"
+    }
+
 
 # Memento 
     {
@@ -7,8 +44,58 @@
       "Director": "Christopher Nolan",
       "Music": "",
       "Stars": "Guy Pearce", "Carrie-Anne Moss", "Joe Pantolinao",
-      "Genres": "Mystery", "Thriller"
+      "Genre": "Mystery", "Thriller"
       "Alias": "记忆碎片",
+      "Status": "seen"
+    }
+
+
+# American Psycho
+    {
+      "Year": 2000,
+      "Director": "Mary Harron",
+      "Music": "",
+      "Stars": "Christian Bale", "Justin Theroux", "Josh Lucas",
+      "Genre": "Crime", "Drama", "Horror",
+      "Alias": "美国精神病人",
+      "Status": "seen"
+    }
+
+
+
+# A Beautiful Mind
+    {
+      "Year": 2001,
+      "Director": "Ron Howard",
+      "Music": "",
+      "Stars": "Russell Crowe", "Ed Harris", "Jennifer Connelly",
+      "Genre": "Biography", "Drama",
+      "Alias": "美丽心灵",
+      "Status": "seen"
+    }
+
+
+
+# The Pianist
+    {
+      "Year": 2002,
+      "Director": "Roman Polanski",
+      "Music": "",
+      "Stars": "Adrien Brody", "Thomas Kretschmann", "Frank Finlay",
+      "Genre": "Biograhy", "Drama", "Music", "War",
+      "Alias": "钢琴家",
+      "Status": "unseen"
+    }
+
+
+# The Machinist
+    {
+      "Year": 2004,
+      "Director": "Brad Anderson",
+      "Music": "",
+      "Stars": "Christian Bale", "Jennifer Jason Leigh", "Aitana Sánchez-Gijón",
+      "Genre": "Drama", "Thriller",
+      "Alias": "机械师",
       "Status": "seen"
     }
 
@@ -19,7 +106,7 @@
       "Director": "Christopher Nolan",
       "Music": "Hans Zimmer",
       "Stars": "Christian Bale", "Gary Oldman", "Cillian Murphy",
-      "Genres": "Action", "Crime",
+      "Genre": "Action", "Crime",
       "Alias": "侠影之谜",
       "Status": "seen"
     }
@@ -31,7 +118,7 @@
       "Director": "Christopher Nolan",
       "Music": "Hans Zimmer",
       "Stars": "Christian Bale", "Heath Ledger", "Aaron Eckhart", "Morgan Freeman", "Edison Chen"
-      "Genres": "Action", "Crime",
+      "Genre": "Action", "Crime",
       "Alias": "黑暗骑士",
       "Status": "seen"
     }
@@ -43,11 +130,34 @@
       "Director": "Christopher Nolan",
       "Music": "Hans Zimmer",
       "Stars": "Leonardo DiCaprio", "Joseph Gordon-Levitt",
-      "Genres": "Action", "Sci-Fi"
+      "Genre": "Action", "Sci-Fi"
       "Alias": "盗梦空间",
       "Status": "seen"
     }
 
+
+# Detachment
+    {
+      "Year": 2011,
+      "Director": "Tony Kaye",
+      "Music": "",
+      "Stars": "Adrien Brody", "Christina Hendricks", "Marcia Gay Harden", "Lucy Liu",
+      "Genre": "Drama", "Education",
+      "Alias": "超脱",
+      "Status": "seen"
+    }
+
+
+# Source Code
+    {
+      "Year": 2011,
+      "Director": "Duncan Jones",
+      "Music": "",
+      "Stars": "Jake Gyllenhaal", "Michelle Monaghan", "Vera Farmiga",
+      "Genre": "Action", "Sci-Fi", "Mystery",
+      "Alias": "源代码",
+      "Status": "seen"
+    }
 
 
 # The Dark Knight Rises
@@ -56,11 +166,10 @@
       "Director": "Christopher Nolan",
       "Music": "Hans Zimmer",
       "Stars": "Christian Bale", "Tom Hardy", "Anne Hathaway"
-      "Genres": "Action", "Crime",
+      "Genre": "Action", "Crime",
       "Alias": "黑暗骑士崛起",
       "Status": "seen"
     }
-
 
 
 # Interstellar 
@@ -69,7 +178,7 @@
       "Director": "Christopher Nolan",
       "Music": "Hans Zimmer",
       "Stars": "Matthew McConaughey", "Anne Hathaway", "Jessica Chastain",
-      "Genres": "Adventure",
+      "Genre": "Adventure",
       "Alias": "星际穿越",
       "Status": "seen"
     }
@@ -81,7 +190,7 @@
       "Director": "Christopher Nolan",
       "Music": "Hans Zimmer",
       "Stars": "John David Washington", "Robert Pattinson",
-      "Genres": "sci-fi", "action",
+      "Genre": "sci-fi", "action",
       "Intro": "",
       "Links": "",
       "Alias": "信条", 
@@ -95,7 +204,7 @@
       "Director": "Christopher Nolan",
       "Music": "",
       "Stars": "Cillian Murphy",
-      "Genres": "Biography", "Drama",
+      "Genre": "Biography", "Drama",
       "Alias": "奥本海默",
       "Status": "filming"
     }
@@ -108,7 +217,7 @@
       "Director": "陈凯歌",
       "Music": "",
       "Stars": "张国荣Leslie", "张丰毅", "巩俐", "葛优"
-      "Genres": "Drama", "Music", "History",
+      "Genre": "Drama", "Music", "History",
       "Alias": "Farewell My Concubine",
       "Status": "seen"
     }
@@ -120,7 +229,7 @@
       "Director": "韩杰",
       "Music": "",
       "Stars": "王宝强", "谭卓",
-      "Genres": "Drama",
+      "Genre": "Drama",
       "Alias": "Mr. Tree",
       "Status": "seen"
     }
@@ -132,7 +241,7 @@
       "Director": "Peter Farrelly",
       "Music": "",
       "Stars": "Viggo Mortensen", "Mahershala Ali",
-      "Genres": "biography", "drama",
+      "Genre": "biography", "drama",
       "Link": "",
       "Alias": "绿皮书",
       "Status": "unseen"
@@ -145,7 +254,7 @@
       "Director": "Jean-Marc Vallée",
       "Music": "",
       "Stars": "Matthew McConaughey", "Jennifer Garner", "Jared Leto",
-      "Genres": "Biography", "Drama",
+      "Genre": "Biography", "Drama",
       "Alias": "达拉斯买家俱乐部",
       "Status": "seen"
     }
@@ -157,7 +266,7 @@
       "Director": "Morten Tyldum",
       "Music": "",
       "Stars": "Benedict Cumberbatch", "Keira Knightley", "Matthew Goode",
-      "Genres": "Biography", "Drama",
+      "Genre": "Biography", "Drama",
       "Alias": "模仿游戏",
       "Status": "seen"
     }
@@ -169,7 +278,7 @@
       "Director": "Ang Lee",
       "Music": "",
       "Stars": "Jake Gyllenhall", "Heath Ledger", "Michelle Williams",
-      "Genres": "Drama", "Romance",
+      "Genre": "Drama", "Romance",
       "Alias": "断背山",
       "Status": "seen"
     }
@@ -182,7 +291,7 @@
       "Director": "Ang Lee",
       "Music": "",
       "Stars": "Suraj Sharma", "Irrfan Khan", "Adil Hussain",
-      "Genres": "Adventure", "Fantasy",
+      "Genre": "Adventure", "Fantasy",
       "Alias": "少年派的奇幻漂流",
       "Status": "seen"
     }
@@ -194,7 +303,7 @@
       "Director": "James Marsh",
       "Music": "",
       "Stars": "Eddie Redmayne", "Felicity Jones", "Tom Prior",
-      "Genres": "Biography", "Drama",
+      "Genre": "Biography", "Drama",
       "Alias": "万物理论",
       "Status": "seen"
     }
@@ -206,7 +315,7 @@
       "Director": "Damien Chazelle",
       "Music": "",
       "Stars": "Ryan Gosling", "Emma Stone",
-      "Genres": "Music", "Drama",
+      "Genre": "Music", "Drama",
       "Alias": "爱乐之城",
       "Status": "seen"
     }
@@ -218,7 +327,7 @@
       "Director": "Todd Phillips",
       "Music": "",
       "Stars": "Joaquin Phoenix", "Robert De Niro", "Zazie Beetz",
-      "Genres": "Crime", "Drama", "Thriller",
+      "Genre": "Crime", "Drama", "Thriller",
       "Alias": "小丑",
       "Status": "unseen"
     }
@@ -230,7 +339,7 @@
       "Director": "Adam McKey",
       "Music": "",
       "Stars": "Christian Bale", "Steve Carell", "Ryan Gosling",
-      "Genres": "Biography", "Drame",
+      "Genre": "Biography", "Drame",
       "Alias": "大空头",
       "Status": "seen"
     }
@@ -242,7 +351,7 @@
       "Director": "Quentin Tarantino",
       "Music": "",
       "Stars": "Jamie Foxx", "Christoph Waltz", "Leonardo DiCaprio",
-      "Genres": "Drame", "Western",
+      "Genre": "Drame", "Western",
       "Alias": "被解放的姜戈",
       "Status": "seen"
     }
@@ -254,7 +363,7 @@
       "Director": "David Fincher",
       "Music": "",
       "Stars": "Brad Pitt", "Edward Norton", "Meat Loaf",
-      "Genres": "Drama",
+      "Genre": "Drama",
       "Alias": "搏击俱乐部",
       "Status": "seen"
     }
@@ -266,7 +375,7 @@
       "Director": "Alan Parker",
       "Music": "",
       "Stars": "Kevin Spacey", "Kate Winslet", "Laura Linney",
-      "Genres": "Crime", "Drama", "Thriller",
+      "Genre": "Crime", "Drama", "Thriller",
       "Alias": "大卫戈尔的一生",
       "Status": "seen"
     }
@@ -278,7 +387,7 @@
       "Director": "Sidney Lumet",
       "Music": "",
       "Stars": "Henry Fonda", "Lee J. Cobb", "Martin Balsam",
-      "Genres": "Crime", "Drama",
+      "Genre": "Crime", "Drama",
       "Alias": "十二怒汉",
       "Status": "unseen"
     }
@@ -290,7 +399,7 @@
       "Director": "Milos Forman",
       "Music": "",
       "Stars": "Jack Nicholson", "Louise Fletcher", "Michael Berryman",
-      "Genres": "Drama",
+      "Genre": "Drama",
       "Alias": "飞越疯人院",
       "Status": "seen"
     }
@@ -302,7 +411,7 @@
       "Director": "Jonathan Demme",
       "Music": "",
       "Stars": "Jodie Foster", "Anthony Hopkins", "Lawrence A. Bonney",
-      "Genres": "Drama", "Thriller",
+      "Genre": "Drama", "Thriller",
       "Alias": "沉默的羔羊",
       "Status": "seen"
     }
@@ -315,7 +424,7 @@
       "Director": "Quentin Tarantino",
       "Music": "",
       "Stars": "John Travolta", "Uma Thurman", "Samuel L. Jackson", "Bruce Willis", "Tim Roth"
-      "Genres": "Crime", "Drama",
+      "Genre": "Crime", "Drama",
       "Alias": "低俗小说",
       "Status": "seen"
     }
@@ -327,7 +436,7 @@
       "Director": "Giuseppe Tornatore",
       "Music": "",
       "Stars": "Tim Roth", "Pruitt Taylor Vince", "Mélanie Thierry",
-      "Genres": "Drama", "Music",
+      "Genre": "Drama", "Music",
       "Alias": "海上钢琴师",
       "Status": "seen"
     }
@@ -339,7 +448,7 @@
       "Director": "Quentin Tarantino",
       "Music": "",
       "Stars": "Brad Pitt", "Diane Kruger", "Eli Roth", "Mélanie Laurent", "Christoph Waltz", "Michael Fassbender",
-      "Genres": "Adcenture", "Drama", "War",
+      "Genre": "Adcenture", "Drama", "War",
       "Alias": "无耻混蛋",
       "Status": "seen"
     }
@@ -351,9 +460,9 @@
       "Director": "Peter Weir",
       "Music": "",
       "Stars": "Jim Carrey", "Ed Harris", "Laura Linney",
-      "Genres": "Comedy", "Drama",
+      "Genre": "Comedy", "Drama",
       "Alias": "楚门的世界",
-      "Status": "senn"
+      "Status": "seen"
     }
 
 
@@ -363,7 +472,7 @@
       "Director": "Martin Scorsese",
       "Music": "",
       "Stars": "Leonardo DiCaprio", "Emily Mortimer", "Mark Ruffalo",
-      "Genres": "Mystery", "Thriller", "Psychology",
+      "Genre": "Mystery", "Thriller", "Psychology",
       "Alias": "禁闭岛",
       "Status": "seen"
     }
@@ -376,7 +485,7 @@
       "Director": "Martin Scorsese",
       "Music": "",
       "Stars": "Leonardo DiCaprio", "Jonah Hill", "Margot Robbie",
-      "Genres": "Biograhy", "Comedy", "Drama",
+      "Genre": "Biograhy", "Comedy", "Drama",
       "Alias": "华尔街之狼",
       "Status": "seen"
     }
@@ -388,7 +497,7 @@
       "Director": "曹保平",
       "Music": "",
       "Stars": "邓超", "段奕宏", "郭涛", "王珞丹", 
-      "Genres": " Crime", "Drama", "Mystery",
+      "Genre": " Crime", "Drama", "Mystery",
       "Alias": "The Dead End",
       "Status": "seen"
     }
@@ -400,7 +509,7 @@
       "Director": "王家卫",
       "Music": "",
       "Stars": "张国荣", "梁朝伟", "张震",
-      "Genres": "Drama", "Romance",
+      "Genre": "Drama", "Romance",
       "Alias": "Happy Together",
       "Status": "seen"
     }
@@ -412,9 +521,21 @@
       "Director": "周星驰",
       "Music": "",
       "Stars": "周星驰", "元化", "元秋", "黄圣依", "梁小龙",
-      "Genres": "Comedy", "Action",
+      "Genre": "Comedy", "Action",
       "Alias": "Kung Fu Hustle",
       "Status": "seen"
+    }
+
+
+# 阳光灿烂的日子
+    {
+      "Year": 1994,
+      "Director": "姜文",
+      "Music": "",
+      "Stars": "夏雨", "宁静", "陶虹", 
+      "Genre": "Drama", "Romance"
+      "Alias": "In the Heat of the Sun",
+      "Status": "unseen"
     }
 
 
@@ -424,7 +545,7 @@
       "Director": "冯小刚",
       "Music": "",
       "Stars": "刘德华", "刘若英", "王宝强", "葛优", "李冰冰",
-      "Genres": "Drama", "Action",
+      "Genre": "Drama", "Action",
       "Alias": "A World Without Thieves",
       "Status": "seen"
     }
@@ -437,7 +558,7 @@
       "Director": "邵艺辉",
       "Music": "",
       "Stars": "马伊琍", "徐峥", "周野芒", "吴越", "倪虹洁",
-      "Genres": "Comedy", "Romance",
+      "Genre": "Comedy", "Romance",
       "Alias": "Myth of Love",
       "Status": "seen"
     }
@@ -450,14 +571,22 @@
       "Director": "Danny Boyle",
       "Music": "",
       "Stars": "Michael Fassbender", "Kate Winslet", "Seth Rogen",
-      "Genres": "Biograhy", "Drama",
+      "Genre": "Biograhy", "Drama",
       "Alias": "斯蒂芬乔布斯",
       "Status": "seen"
     }
 
 
-
-
+# Manchester by the Sea
+    {
+      "Year": 2016,
+      "Director": "Kenneth Lonergan",
+      "Music": "",
+      "Stars": "Casey Affleck", "Michelle Williams", "Kyle Chandler",
+      "Genre": "Drama",
+      "Alias": "海边的曼切斯特",
+      "Status": "unseen"
+    }
 
 
 
