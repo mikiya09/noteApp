@@ -25,6 +25,17 @@
     }
 
 
+# Love Letter
+    {
+      "Year": 1995,
+      "Director": "Shunji Iwai 岩井俊二",
+      "Music": "Shunji Iwai",
+      "Stars": "中山美穗", "酒井美纪", "柏原崇",
+      "Genre": "Drama", "Romance",
+      "Alias": "情书",
+      "Status": "seen"
+    }
+
 
 # Good Will Hunting 
     {
@@ -34,6 +45,18 @@
       "Stars": "Robin Williams", "Matt Damon", "Ben Affleck",
       "Genre": "Drama", "Romance",
       "Alias": "心灵捕手",
+      "Status": "seen"
+    }
+
+
+# Cowboy Bebop
+    {
+      "Year": 1998,
+      "Director": "Shinichirô Watanabe(渡边信一郎)",
+      "Music": "Yoko Kanno(菅野洋子)",
+      "Stars": "山寺宏一", "石冢运升", "林原惠美", "多田葵",
+      "Genre": "Drama", "Action", "Sci-Fi", "Jazz",
+      "Alias": "星际牛仔 カウボーイビバップ",
       "Status": "seen"
     }
 
@@ -98,6 +121,20 @@
       "Alias": "机械师",
       "Status": "seen"
     }
+
+
+
+# Samurai Champloo
+    {
+      "Year": 2004,
+      "Director": "Shinichirô Watanabe 渡边信一郎",
+      "Music": "Nujabes",
+      "Stars": "川澄绫子", "中井和哉", "佐藤银平",
+      "Genre": "Action", "Adventure", "Jazz-hiphop",
+      "Alies": "混沌武士 サムライチャンプルー",
+      "Status": "seen"
+    }
+
 
 
 # Batman Begins 
