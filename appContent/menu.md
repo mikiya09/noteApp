@@ -43,32 +43,32 @@
 # [ チンジャオロース/青椒肉絲 ]
 
 
-        >> 原料
+    >> 原料
 
-            + 青椒 Green peppers—2個
-            + 生辣椒 Chili peppers—2支
-            + 梅花肉 Pork—150g
-            + 砂糖 Sugar—1小匙
-            + 清酒 Sake—1大匙
-            + 醬油 Soy sauce—1小匙
-            + 清酒 Sake—1大匙
-            + 味醂 Mirin—1小匙
+        + 青椒 Green peppers—2個
+        + 生辣椒 Chili peppers—2支
+        + 梅花肉 Pork—150g
+        + 砂糖 Sugar—1小匙
+        + 清酒 Sake—1大匙
+        + 醬油 Soy sauce—1小匙
+        + 清酒 Sake—1大匙
+        + 味醂 Mirin—1小匙
 
-            + 砂糖 Sugar—1小匙
-            + 醬油 Soy sauce—2小匙
-            + 蠔油 Oyster sauce—2小匙
-            + 蒜泥 Garlic paste—1小匙
-            + 薑泥 Ginger paste—1/2小匙
+        + 砂糖 Sugar—1小匙
+        + 醬油 Soy sauce—2小匙
+        + 蠔油 Oyster sauce—2小匙
+        + 蒜泥 Garlic paste—1小匙
+        + 薑泥 Ginger paste—1/2小匙
 
-            + 太白粉 Starch—1小匙
-            + 水 Water—1小匙
-
-
-        >> 步骤
-
-            1. 
+        + 太白粉 Starch—1小匙
+        + 水 Water—1小匙
 
 
+>> 步骤
 
-        >> reference 
-            + https://www.youtube.com/watch?v=Jf8LhhjgGpE
+        1. 
+
+
+
+    >> reference 
+        + https://www.youtube.com/watch?v=Jf8LhhjgGpE
