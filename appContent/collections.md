@@ -281,7 +281,7 @@
       "Genre": "biography", "drama",
       "Link": "",
       "Alias": "绿皮书",
-      "Status": "unseen"
+      "Status": "seen"
     }
 
 
@@ -624,6 +624,110 @@
       "Alias": "海边的曼切斯特",
       "Status": "unseen"
     }
+
+
+# 十月围城
+    {
+        "Year": 2009,
+        "Director": "陈德森",
+        "Music": "",
+        "Stars": "甄子丹", "王学圻", "梁家辉",
+        "Genre": "Drama", "Action",
+        "Alias": "Bodyguards and Assassins",
+        "Status": "seen"
+    }
+
+
+# 十月围城
+    {
+        "Year": 2007,
+        "Director": "陈可辛",
+        "Music": "",
+        "Stars": "李连杰", "刘德华", "金城武", "徐静蕾",
+        "Genre": "Drama", "Action",
+        "Alias": "The Warlords",
+        "Status": "seen"
+    }
+
+# 妖猫传
+    {
+        "Year": 2017,
+        "Director": "陈凯歌",
+        "Music": "",
+        "Stars": "黄轩", "染谷将太", "秦昊", "张榕容",
+        "Genre": "Drama", "Mystery",
+        "Alias": "Legend of the Demon Cat",
+        "Status": "seen"
+    }
+
+
+# 소원
+    {
+        "Year": 2013,
+        "Director": "李濬益",
+        "Music": "",
+        "Stars": "薛景求", "严志媛", "李来",
+        "Genre": "Drama",
+        "Alias": "素媛",
+        "Status": "seen"
+    }
+
+
+# 도가니
+    {
+        "Year": 2011,
+        "Director": "黄东赫",
+        "Music": "",
+        "Stars": "孔刘", "郑裕美", "金贤秀",
+        "Genre": "Drama",
+        "Alias": "熔炉",
+        "Status": "seen"
+    }
+
+
+# 기생충
+    {
+        "Year": 2019,
+        "Director": "奉俊昊",
+        "Music": "",
+        "Stars": "宋康昊", "李善均", "曹汝贞", "崔宇植",
+        "Genre": "Drama",
+        "Alias": "寄生虫",
+        "Status": "seen"
+    }
+
+
+# Catch Me If You Can
+    {
+        "Year": 2002,
+        "Director": "Steven Spielberg",
+        "Music": "",
+        "Stars": "Leonardo DiCaprio", "Tom Hanks",
+        "Genre": "Drama", "Crime",
+        "Alias": "猫鼠游戏",
+        "Status": "seen"
+    }
+
+
+# Blood Diamond
+    {
+        "Year": 2006,
+        "Director": "Edward Zwick",
+        "Music": "",
+        "Stars": "Leonardo DiCaprio", "Djimon Hounsou", "Jennifer Connelly",
+        "Genre": "Drama", "Adventure",
+        "Alias": "血钻",
+        "Status": "seen"
+    }
+
+
+
+
+
+
+
+
+
 
 
 
