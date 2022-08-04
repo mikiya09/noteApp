@@ -35,6 +35,15 @@
         https://www.bilibili.com/video/BV1gh411d7sp/?spm_id_from=333.788.recommend_more_video.3
 
 
+# 2 燕麦（oatmeal）
+
+    >> take 40g oat out, not much, usually 1/2 cup of measuring cup
+
+    >> cover it with half more water in volume (using eye view)
+
+    >> medium fire for boiling around 5 mins
+
+    >> after boiling, add sliced banana, and cold down for 1 min
 
 
 
