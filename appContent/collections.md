@@ -638,7 +638,7 @@
     }
 
 
-# 十月围城
+# 投名状
     {
         "Year": 2007,
         "Director": "陈可辛",
@@ -719,6 +719,33 @@
         "Alias": "血钻",
         "Status": "seen"
     }
+
+
+# もののけ姫
+    {
+        "Year": 1997,
+        "Director": "Hayao Miyazaki",
+        "Music": "Joe Hisaishi",
+        "Stars": "",
+        "Genre": "Amine", "Adventure",
+        "Alias": "幽灵公主",
+        "Status": "unseen"
+    }
+
+
+# 菊次郎の夏
+    {
+        "Year": 1999,
+        "Director": "Takeshi Kitano",
+        "Music": "",
+        "Stars": "Takeshi Kitano", "Yusuke Sekiguchi", "Kayoko Kishimoto",
+        "Genre": "Drama", "Comic",
+        "Alias": "菊次郎的夏天",
+        "Status": "seen"
+    }
+
+
+
 
 
 
