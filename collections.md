@@ -227,7 +227,7 @@
       "Director": "Christopher Nolan",
       "Music": "Hans Zimmer",
       "Stars": "John David Washington", "Robert Pattinson",
-      "Genre": "sci-fi", "action",
+      "Genre": "Sci-Fi", "action",
       "Intro": "",
       "Links": "",
       "Alias": "信条", 
@@ -788,7 +788,7 @@
         "Director": "Edward Zwick",
         "Music": "",
         "Stars": "Brad Pitt", "Anthony Hopkins", "Aidan Quinn", "Julia Ormond"
-        "Genre": "Drama", "Love",
+        "Genre": "Drama", "Romance",
         "Alias": "燃情岁月",
         "Status": "seen"
     }
@@ -859,12 +859,314 @@
         "Director": "Brett Ratner",
         "Music": "",
         "Stars": "Nicolas Cage", "Téa Leoni", "Don Cheadle",
-        "Genre": "Drama", "Family", "Love"
+        "Genre": "Drama", "Family", "Romance"
         "Alias": "居家男人",
         "Status": "seen"
     }
 
 
+# パプリカ
+    {
+        "Year": 2006,
+        "Director": "Satoshi Kon",
+        "Music": "",
+        "Stars": "Megumi Hayashibara", "Toru Emori",
+        "Genre": "Sci-Fi", "Anime", "Mystery"
+        "Alias": "红辣椒", "Paprika",
+        "Status": "seen"
+    }
+
+
+# パーフェクト ブルー 
+    {
+        "Year": 1997,
+        "Director": "Satoshi Kon",
+        "Music": "",
+        "Stars": "Junko Iwao", "Rica Matsumoto", "Shinpachi Tsuji",
+        "Genre": "Anime", "Thriller",
+        "Alias": "未麻的部屋", "Perfect Blue",
+        "Status": "seen"
+    }
+
+
+# 千年女優
+    {
+        "Year": 2001,
+        "Director": "Satoshi Kon",
+        "Music": "",
+        "Stars": "Miyoko Shôji", "Mami Koyama", "Fumiko Orikasa",
+        "Genre": "Drama", "Romance",
+        "Alias": "千年女优",
+        "Status": "seen"
+    }
+
+# 飲食男女
+    {
+        "Year": 1994,
+        "Director": "李安",
+        "Music": "",
+        "Stars": "郎雄", "杨贵媚", "吴倩莲", "王渝文", "张艾嘉",
+        "Genre": "Drama", "Family",
+        "Alias": "饮食男女",
+        "Status": "unseen"
+    }
+
+# The Sixth Sense 
+    {
+        "Year": 1999,
+        "Director": "M. Night Shyamalan",
+        "Music": "",
+        "Stars": "Bruce Willis", "Haley Joel Osment", "Toni Collette",
+        "Genre": "Drama", "Mystery",
+        "Alias": "第六感",
+        "Status": "seen"
+    }
+
+# Identity 
+    {
+        "Year": 2003,
+        "Director": "James Mangold",
+        "Music": "",
+        "Stars": "John Cusack", "Ray Liotta", "Amanda Peet",
+        "Genre": "Drama", "Mystery", "Thriller",
+        "Alias": "致命ID",
+        "Status": "seen"
+    }
+
+# The Prestige
+    {
+        "Year": 2006,
+        "Director": "Christopher Nolan",
+        "Music": "",
+        "Stars": "Hugh Jackman", "Christian Bale", "Michael Caine", "Rebecca Hall",
+        "Genre": "Drama", "Mystery",
+        "Alias": "致命魔术",
+        "Status": "seen"
+    }
+
+# The Shining
+    {
+        "Year": 1980,
+        "Director": "Stanley Kubrick",
+        "Music": "",
+        "Stars": "Jack Nicholson", "Shelley Duvall", "Danny Lloyd",
+        "Genre": "Horror",
+        "Alias": "闪灵",
+        "Status": "unseen"
+    }
+
+# Dunkirk
+    {
+        "Year": 2017,
+        "Director": "Christopher Nolan",
+        "Music": "",
+        "Stars": "Fionn Whitehead", "Tom Glynn-Carney", "Jack Lowden",
+        "Genre": "Drama", "War", "History"
+        "Alias": "敦刻尔克",
+        "Status": "unseen"
+    }
+
+# Hacksaw Ridge
+    {
+        "Year": 2016,
+        "Director": "Mel Gibson",
+        "Music": "",
+        "Stars": "Andrew Garfield", "Sam Worthington", "Vince Vaughn",
+        "Genre": "Drama", "Biography",
+        "Alias": "血战钢锯岭",
+        "Status": "unseen"
+    }
+
+# Darkest Hour
+    {
+        "Year": 2017,
+        "Director": "Joe Wright",
+        "Music": "",
+        "Stars": "Gary Oldman", "Kristin Scott Thomas", "Lily James",
+        "Genre": "Drama", "Biography", "War", "History",
+        "Alias": "至暗时刻",
+        "Status": "unseen"
+    }
+
+# La vita è bella
+    {
+        "Year": 1997,
+        "Director": "Roberto Benigni",
+        "Music": "",
+        "Stars": "Roberto Benigni", "Nicoletta Braschi", "Giorgio Cantarini",
+        "Genre": "Drama", "Love", "War",
+        "Alias": "美丽人生",
+        "Status": "seen"
+    }
+
+
+# The Shawshank Redemption
+    {
+        "Year": 1994,
+        "Director": "Frank Darabont",
+        "Music": "",
+        "Stars": "Tim Robbins", "Morgan Freeman", "Bob Gunton",
+        "Genre": "Drama", "Crime",
+        "Alias": "肖申克的救赎",
+        "Status": "seen"
+    }
+
+# The Social Network
+    {
+        "Year": 2010,
+        "Director": "David Fincher",
+        "Music": "",
+        "Stars": "Jesse Eisenberg", "Andrew Garfield", "Justin Timberlake", "Rooney Mara",
+        "Genre": "Drama", "Biography",
+        "Alias": "社交网络",
+        "Status": "seen"
+    }
+
+# Flipped
+    {
+        "Year": 2010,
+        "Director": "Rob Reiner",
+        "Music": "",
+        "Stars": "Madeline Carroll", "Callan McAuliffe",
+        "Genre": "Drama", "Romance",
+        "Alias": "怦然心动",
+        "Status": "seen"
+    }
+
+# Before Sunrise
+    {
+        "Year": 1995,
+        "Director": "Richard Linklater",
+        "Music": "",
+        "Stars": "Ethan Hawke", "Julie Delpy",
+        "Genre": "Drama", "Romance",
+        "Alias": "爱在黎明破晓前",
+        "Status": "unseen"
+    }
+
+# Before Sunset
+    {
+        "Year": 2004,
+        "Director": "Richard LinkLater",
+        "Music": "",
+        "Stars": "Ethan Hawke", "Julie Delpy",
+        "Genre": "Drama", "Romance",
+        "Alias": "爱在日落黄昏时",
+        "Status": "unseen"
+    }
+
+
+# Little Women
+    {
+        "Year": 2019,
+        "Director": "Greta Gerwig",
+        "Music": "",
+        "Stars": "Saoirse Ronan", "Emma Watson", "Florence Pugh", "Timothée Chalamet",
+        "Genre": "Drama", "Romance",
+        "Alias": "小妇人",
+        "Status": "seen"
+    }
+
+
+# Her
+    {
+        "Year": 2013,
+        "Director": "Spike Jonze",
+        "Music": "",
+        "Stars": "Joaquin Phoenix", "Scarlett Johansson", "Amy Adams",
+        "Genre": "Drama", "Romance",
+        "Alias": "她",
+        "Status": "seen"
+    }
+
+# The Great Gatsby
+    {
+        "Year": 2013,
+        "Director": "Baz Luhrmann",
+        "Music": "",
+        "Stars": "Leonardo DiCaprio", "Carey Mulligan", "Tobey Maguire", "Elizabeth Debicki",
+        "Genre": "Drama", "Romance",
+        "Alias": "了不起的盖茨比",
+        "Status": "seen"
+    }
+
+# 甜蜜蜜
+    {
+        "Year": 1996,
+        "Director": "陈可辛",
+        "Music": "",
+        "Stars": "黎明", "张曼玉",
+        "Genre": "Drama", "Romance",
+        "Alias": "Comrades: Almost a Love Story",
+        "Status": "seen"
+    }
+
+# 重庆森林
+    {
+        "Year": 1994,
+        "Director": "王家卫",
+        "Music": "",
+        "Stars": "林青霞", "金城武", "梁朝伟", "王菲",
+        "Genre": "Drama", "Romance",
+        "Alias": "Chungking Express",
+        "Status": "seen"
+    }
+
+# 阿飞正传
+    {
+        "Year": 1990,
+        "Director": "王家卫",
+        "Music": "",
+        "Stars": "张国荣", "张曼玉", "刘嘉玲", "张学友"
+        "Genre": "Drama", "Romance",
+        "Alias": "Days of being Wild",
+        "Status": "seen"
+    }
+
+# Gravity
+    {
+        "Year": 2013,
+        "Director": "Alfonso Cuarón",
+        "Music": "",
+        "Stars": "Sandra Bullock", "George Clooney",
+        "Genre": "Sci-Fi", "Thriller",
+        "Alias": "地心引力",
+        "Status": "seen"
+    }
+
+# The Martian
+    {
+        "Year": 2015,
+        "Director": "Ridley Scott",
+        "Music": "",
+        "Stars": "Matt Damon", "Jessica Chastain", "Kristen Wiig",
+        "Genre": "Drama", "Sci-Fi",
+        "Alias": "火星救援",
+        "Status": "unseen"
+    }
+
+# 2001: A Space Odyssey
+    {
+        "Year": 1968,
+        "Director": "Stanley Kubrick",
+        "Music": "",
+        "Stars": "Keir Dullea", "Gary Lockwood", "William Sylvester",
+        "Genre": "Sci-Fi", "Thriller",
+        "Alias": "2001太空漫游",
+        "Status": "unseen"
+    }
+
+# Whiplash
+    {
+        "Year": 2014,
+        "Director": "Damien Chazelle",
+        "Music": "",
+        "Stars": "Miles Teller", "J.K. Simmons",
+        "Genre": "Drama", "Music",
+        "Alias": "爆裂鼓手",
+        "Status": "seen"
+    }
+
 # 
     {
         "Year": ,
@@ -877,105 +1179,18 @@
     }
 
 
-# 
-    {
-        "Year": ,
-        "Director": "",
-        "Music": "",
-        "Stars": "", "", "",
-        "Genre": "", "",
-        "Alias": "",
-        "Status": ""
-    }
 
 
-# 
-    {
-        "Year": ,
-        "Director": "",
-        "Music": "",
-        "Stars": "", "", "",
-        "Genre": "", "",
-        "Alias": "",
-        "Status": ""
-    }
 
-# 
-    {
-        "Year": ,
-        "Director": "",
-        "Music": "",
-        "Stars": "", "", "",
-        "Genre": "", "",
-        "Alias": "",
-        "Status": ""
-    }
 
-# 
-    {
-        "Year": ,
-        "Director": "",
-        "Music": "",
-        "Stars": "", "", "",
-        "Genre": "", "",
-        "Alias": "",
-        "Status": ""
-    }
 
-# 
-    {
-        "Year": ,
-        "Director": "",
-        "Music": "",
-        "Stars": "", "", "",
-        "Genre": "", "",
-        "Alias": "",
-        "Status": ""
-    }
 
-# 
-    {
-        "Year": ,
-        "Director": "",
-        "Music": "",
-        "Stars": "", "", "",
-        "Genre": "", "",
-        "Alias": "",
-        "Status": ""
-    }
 
-# 
-    {
-        "Year": ,
-        "Director": "",
-        "Music": "",
-        "Stars": "", "", "",
-        "Genre": "", "",
-        "Alias": "",
-        "Status": ""
-    }
 
-# 
-    {
-        "Year": ,
-        "Director": "",
-        "Music": "",
-        "Stars": "", "", "",
-        "Genre": "", "",
-        "Alias": "",
-        "Status": ""
-    }
 
-# 
-    {
-        "Year": ,
-        "Director": "",
-        "Music": "",
-        "Stars": "", "", "",
-        "Genre": "", "",
-        "Alias": "",
-        "Status": ""
-    }
+
+
+
 
 
 
