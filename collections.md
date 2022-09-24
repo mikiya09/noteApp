@@ -746,15 +746,236 @@
 
 
 
+# Matchstick Men
+    {
+        "Year": 2003,
+        "Director": "Ridley Scott",
+        "Music": "",
+        "Stars": "Nicolas Cage", "Sam Rockwell", "Alison Lohman",
+        "Genre": "Drama",
+        "Alias": "火柴人",
+        "Status": "seen"
+    }
+
+
+# Big Fish
+    {
+        "Year": 2003,
+        "Director": "Tim Burton",
+        "Music": "",
+        "Stars": "Ewan McGregor", "Albert Finney", "Alison Lohman",
+        "Genre": "Drama", "Family",
+        "Alias": "大鱼",
+        "Status": "seen"
+    }
+
+
+# Rain Man
+    {
+        "Year": 1988,
+        "Director": "Barry Levinson",
+        "Music": "",
+        "Stars": "Dustin Hoffman", "Tom Cruise",
+        "Genre": "Drama",
+        "Alias": "雨人",
+        "Status": "seen"
+    }
+
+
+# Legends of the Fall 
+    {
+        "Year": 1994,
+        "Director": "Edward Zwick",
+        "Music": "",
+        "Stars": "Brad Pitt", "Anthony Hopkins", "Aidan Quinn", "Julia Ormond"
+        "Genre": "Drama", "Love",
+        "Alias": "燃情岁月",
+        "Status": "seen"
+    }
+
+
+# Primal Fear 
+    {
+        "Year": 1996,
+        "Director": "Gregory Hoblit",
+        "Music": "",
+        "Stars": "Richard Gere", "Edward Norton", "Laura Linney",
+        "Genre": "Drama", "Mystery",
+        "Alias": "一级恐惧",
+        "Status": "seen"
+    }
+
+
+# The Usual Suspects
+    {
+        "Year": 1995,
+        "Director": "Bryan Singer",
+        "Music": "",
+        "Stars": "Stephen Baldwin", "Gabriel Byrne", "Benicio del Toro", "Kevin Pollak", "Kevin Spacey",
+        "Genre": "Mystery", "Thriller",
+        "Alias": "",
+        "Status": "seen"
+    }
 
 
 
+# The Talented Mr. Ripley
+    {
+        "Year": 1999,
+        "Director": "Anthony Minghella",
+        "Music": "",
+        "Stars": "Matt Damon", "Gwyneth Paltrow", "Jude Law", "Cate Blanchett",
+        "Genre": "Drama", "Thriller", "Crime",
+        "Alias": "天才雷普利",
+        "Status": "seen"
+    }
 
 
+# Lord of War 
+    {
+        "Year": 2005,
+        "Director": "Andrew Niccol",
+        "Music": "",
+        "Stars": "Nicolas Cage", "Bridget Moynahan", "Jared Leto",
+        "Genre": "Drama", "Crime",
+        "Alias": "战争之王",
+        "Status": "seen"
+    }
+
+# Face Off
+    {
+        "Year": 1997,
+        "Director": "John Woo",
+        "Music": "",
+        "Stars": "Nicolas Cage", "John Travolta",
+        "Genre": "Action", "Thriller",
+        "Alias": "变脸",
+        "Status": "seen"
+    }
+
+# The Family Man
+    {
+        "Year": 2000,
+        "Director": "Brett Ratner",
+        "Music": "",
+        "Stars": "Nicolas Cage", "Téa Leoni", "Don Cheadle",
+        "Genre": "Drama", "Family", "Love"
+        "Alias": "居家男人",
+        "Status": "seen"
+    }
 
 
+# 
+    {
+        "Year": ,
+        "Director": "",
+        "Music": "",
+        "Stars": "", "", "",
+        "Genre": "", "",
+        "Alias": "",
+        "Status": ""
+    }
 
 
+# 
+    {
+        "Year": ,
+        "Director": "",
+        "Music": "",
+        "Stars": "", "", "",
+        "Genre": "", "",
+        "Alias": "",
+        "Status": ""
+    }
+
+
+# 
+    {
+        "Year": ,
+        "Director": "",
+        "Music": "",
+        "Stars": "", "", "",
+        "Genre": "", "",
+        "Alias": "",
+        "Status": ""
+    }
+
+# 
+    {
+        "Year": ,
+        "Director": "",
+        "Music": "",
+        "Stars": "", "", "",
+        "Genre": "", "",
+        "Alias": "",
+        "Status": ""
+    }
+
+# 
+    {
+        "Year": ,
+        "Director": "",
+        "Music": "",
+        "Stars": "", "", "",
+        "Genre": "", "",
+        "Alias": "",
+        "Status": ""
+    }
+
+# 
+    {
+        "Year": ,
+        "Director": "",
+        "Music": "",
+        "Stars": "", "", "",
+        "Genre": "", "",
+        "Alias": "",
+        "Status": ""
+    }
+
+# 
+    {
+        "Year": ,
+        "Director": "",
+        "Music": "",
+        "Stars": "", "", "",
+        "Genre": "", "",
+        "Alias": "",
+        "Status": ""
+    }
+
+# 
+    {
+        "Year": ,
+        "Director": "",
+        "Music": "",
+        "Stars": "", "", "",
+        "Genre": "", "",
+        "Alias": "",
+        "Status": ""
+    }
+
+# 
+    {
+        "Year": ,
+        "Director": "",
+        "Music": "",
+        "Stars": "", "", "",
+        "Genre": "", "",
+        "Alias": "",
+        "Status": ""
+    }
+
+# 
+    {
+        "Year": ,
+        "Director": "",
+        "Music": "",
+        "Stars": "", "", "",
+        "Genre": "", "",
+        "Alias": "",
+        "Status": ""
+    }
 
 
 
