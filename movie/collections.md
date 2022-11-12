@@ -1167,6 +1167,18 @@
         "Status": "seen"
     }
 
+# The Painted Veil
+    {
+        "Year": 2006,
+        "Director": "John Curran",
+        "novel": "W. Somerset Maugham",
+        "Music": "",
+        "Stars": "Edward Norton", "Naomi Watts",
+        "Genre": "Drama", "Romance",
+        "Alias": "面纱",
+        "Status": "unseen"
+    }
+
 # 
     {
         "Year": ,
