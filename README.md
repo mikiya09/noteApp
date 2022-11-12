@@ -5,18 +5,17 @@
 
 
 # Prototype 
-    => recording movies
-    => travel stuff
-      + what kind of traveling bag to better carry shaver, tooth brush, facial cleanser...
-      + lens, 
-      + laptop, charger
-      + 
-    => ...
+
+#### [+] basic categories
+##### &#x23f5; [movie](./movie/collections.md)
+##### &#x23f5; [travel](./travel/list.md)
 
 
 # functionality to add
-    => cook
-    => Loop Theory
+##### &#x23f5; [cook](./cook/menu.md)
+##### &#x23f5; [desktop](./desktop/workStationList.md)
+##### &#x23f5; [fun](./fun/)
+##### &#x23f5; Loop Theory
 
 
 
