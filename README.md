@@ -1,21 +1,24 @@
 
-# Full Version (temp) 
-    >> For Recording Anything (things I think is interesting)
-    >> use of all kinds of tools: graphs, sound, text, ...
+# &#x232d; Full Version (temp) 
+```
+>> For Recording Anything (things I think is interesting)
+>> use of all kinds of tools: graphs, sound, text, ...
+```
 
 
-# Prototype 
+## &#x237e; Prototype 
 
-#### [+] basic categories
-##### &#x23f5; [movie](./movie/collections.md)
-##### &#x23f5; [travel](./travel/list.md)
-
-
-# functionality to add
-##### &#x23f5; [cook](./cook/menu.md)
-##### &#x23f5; [desktop](./desktop/workStationList.md)
-##### &#x23f5; [fun](./fun/)
-##### &#x23f5; Loop Theory
+##### &#x23f5; [movie](./content/movie/collections.md)
+##### &#x23f5; [travel](./content/travel/list.md)
 
 
+## &#x237e; functionality to add
+##### &#x23f5; [cook](./content/cook/menu.md)
+##### &#x23f5; [desktop](./content/desktop/workStationList.md)
+##### &#x23f5; [fun](./content/fun/)
+##### &#x23f5; [Loop Theory]()
+
+
+## &#x237e;
+##### &#x23f5; markdown [icon](./mdTemplate.md)
 
