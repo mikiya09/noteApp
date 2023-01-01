@@ -32,4 +32,8 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+# python file ignore 
+__pycache__
+
+
 # End of https://www.toptal.com/developers/gitignore/api/macos

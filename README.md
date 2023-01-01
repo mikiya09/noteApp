@@ -20,5 +20,5 @@
 
 
 ## &#x237e;
-##### &#x23f5; markdown [icon](./mdTemplate.md)
+##### &#x23f5; markdown [icon](./templateMD.md)
 
