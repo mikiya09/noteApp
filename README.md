@@ -1,22 +1,15 @@
 
-# &#x232d; Full Version (temp) 
-```
->> For Recording Anything (things I think is interesting)
->> use of all kinds of tools: graphs, sound, text, ...
-```
+# &#x232d; Features
+##### `1. take notes of anything I want`
+##### `2. use all kinds of representation: graphs, sound, text, ..., etc`
 
 
-## &#x237e; Prototype 
+## &#x237e; content
 
 ##### &#x23f5; [movie](./content/movie/collections.md)
 ##### &#x23f5; [travel](./content/travel/list.md)
-
-
-## &#x237e; functionality to add
-##### &#x23f5; [cook](./content/cook/menu.md)
-##### &#x23f5; [desktop](./content/desktop/workStationList.md)
-##### &#x23f5; [fun](./content/fun/)
-##### &#x23f5; [Loop Theory]()
+##### &#x23f5; [video](./content/video/)
+##### &#x23f5; [others](./content/)
 
 
 ## &#x237e;
