@@ -1,5 +1,6 @@
 
 # &#x232d; Features
+
 ##### `1. take notes of anything I want`
 ##### `2. use all kinds of representation: graphs, sound, text, ..., etc`
 
